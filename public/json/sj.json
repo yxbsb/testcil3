@@ -1,0 +1,38 @@
+[
+    {
+        "goodName": "手机",
+        "img": "img/img.png"
+    },
+    {
+        "goodName": "手机1P",
+        "img": "../img/img.png"
+    },
+    {
+        "goodName": "手机2P",
+        "img": "../img/img.png"
+    },
+    {
+        "goodName": "手机3P",
+        "img": "../img/img.png"
+    },
+    {
+        "goodName": "手机4P",
+        "img": "../img/img.png"
+    },
+    {
+        "goodName": "手机5P",
+        "img": "../img/img.png"
+    },
+    {
+        "goodName": "手机6P",
+        "img": "../img/img.png"
+    },
+    {
+        "goodName": "手机7P",
+        "img": "../img/img.png"
+    },
+    {
+        "goodName": "手机8P",
+        "img": "../img/img.png"
+    }
+]
